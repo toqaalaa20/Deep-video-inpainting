@@ -1,1 +1,1 @@
-# Video-Inpainting
+# Image-Inpainting
